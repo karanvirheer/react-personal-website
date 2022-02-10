@@ -5,15 +5,35 @@ export const programmingPortfolio = [
     info: "A waste image classifier made with Tensorflow.js",
     img: "assets/Programming/recyclops.png",
   },
-  { id: 2, title: "Orbo", img: "assets/Programming/orbo.png" },
-  { id: 3, title: "File Compressor ", img: "assets/Programming/huffman.jpeg" },
-  { id: 4, title: "Personal Website", img: "assets/Programming/website.png" },
+  {
+    id: 2,
+    title: "Orbo",
+    info: "A gravitational orbit simulator made with Unity",
+    img: "assets/Programming/orbo.png",
+  },
+  {
+    id: 3,
+    title: "File Compressor ",
+    info: "A file compressor made with the huffman algorithm",
+    img: "assets/Programming/huffman.jpeg",
+  },
+  {
+    id: 4,
+    title: "Personal Website",
+    info: "What you see here!",
+    img: "assets/Programming/website.png",
+  },
 ];
 
 export const photographyPortfolio = [
-  { id: 1, title: "CLA-45", img: "assets/Photography/cla-front.jpg" },
-  { id: 2, title: "CLA-45", img: "assets/Photography/cla-wheel.jpg" },
-  { id: 3, title: "CLA-45", img: "assets/Photography/cla-mirror.jpg" },
+  { id: 1, title: "CLA-45", info: "", img: "assets/Photography/cla-front.jpg" },
+  { id: 2, title: "CLA-45", info: "", img: "assets/Photography/cla-wheel.JPG" },
+  {
+    id: 3,
+    title: "CLA-45",
+    info: "",
+    img: "assets/Photography/cla-mirror.jpg",
+  },
   { id: 4, title: "Leo", img: "assets/Photography/leo.jpg" },
   { id: 5, title: "Mustang", img: "assets/Photography/stang-front.jpg" },
   { id: 6, title: "Mustang", img: "assets/Photography/stang-back.jpg" },
