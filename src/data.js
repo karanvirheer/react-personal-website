@@ -1,5 +1,10 @@
 export const programmingPortfolio = [
-  { id: 1, title: "Recyclops", img: "assets/Programming/recyclops.png" },
+  {
+    id: 1,
+    title: "Recyclops",
+    info: "A waste image classifier made with Tensorflow.js",
+    img: "assets/Programming/recyclops.png",
+  },
   { id: 2, title: "Orbo", img: "assets/Programming/orbo.png" },
   { id: 3, title: "File Compressor ", img: "assets/Programming/huffman.jpeg" },
   { id: 4, title: "Personal Website", img: "assets/Programming/website.png" },

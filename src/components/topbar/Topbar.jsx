@@ -4,7 +4,6 @@ import { Person, Mail } from "@material-ui/icons";
 import fileSaver from "file-saver";
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
-  // process.env.REACT_APP_CLIENT_URL +
   const saveFile = () => {
     fileSaver.saveAs(
       "http://localhost:3000" + "/assets/Resume/karanvir_heer_resume.pdf",
