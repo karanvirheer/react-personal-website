@@ -1,7 +1,5 @@
 # Project Specific
 /node_modules
-*.json
-*.lock
 .DS_Store
 
 # Logs
