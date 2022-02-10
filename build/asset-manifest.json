@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-personal-website/static/css/main.2ff63425.css",
-    "main.js": "/react-personal-website/static/js/main.fe0d86ac.js",
-    "index.html": "/react-personal-website/index.html",
-    "main.2ff63425.css.map": "/react-personal-website/static/css/main.2ff63425.css.map",
-    "main.fe0d86ac.js.map": "/react-personal-website/static/js/main.fe0d86ac.js.map"
+    "main.css": "/static/css/main.2ff63425.css",
+    "main.js": "/static/js/main.fe0d86ac.js",
+    "index.html": "/index.html",
+    "main.2ff63425.css.map": "/static/css/main.2ff63425.css.map",
+    "main.fe0d86ac.js.map": "/static/js/main.fe0d86ac.js.map"
   },
   "entrypoints": [
     "static/css/main.2ff63425.css",
