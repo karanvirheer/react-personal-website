@@ -6,7 +6,7 @@ import fileSaver from "file-saver";
 export default function Topbar({ menuOpen, setMenuOpen }) {
   const saveFile = () => {
     fileSaver.saveAs(
-      "http://localhost:3000" + "/assets/Resume/karanvir_heer_resume.pdf",
+      "http://karanvirheer.com" + "/assets/Resume/karanvir_heer_resume.pdf",
       "Karanvir_Heer_Resume.pdf"
     );
   };
